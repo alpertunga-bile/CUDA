@@ -1,2 +1,2 @@
 # CUDA
-CUDA projects from Professional CUDA C programming
+CUDA projects from Professional CUDA C Programming book
